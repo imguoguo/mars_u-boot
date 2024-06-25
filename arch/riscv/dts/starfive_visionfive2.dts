@@ -11,7 +11,7 @@
 / {
 	#address-cells = <2>;
 	#size-cells = <2>;
-	model = "StarFive VisionFive V2";
+	model = "Milk-V Mars";
 	compatible = "starfive,jh7110";
 
 	aliases {
